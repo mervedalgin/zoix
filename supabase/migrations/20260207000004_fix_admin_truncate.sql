@@ -1,0 +1,6 @@
+CREATE OR REPLACE FUNCTION admin_truncate_scores()
+RETURNS void AS $$
+BEGIN
+  TRUNCATE scores;
+END;
+$$ LANGUAGE plpgsql SECURITY DEFINER;

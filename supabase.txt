@@ -1,0 +1,15 @@
+db pass: gSQislpUsavcvcKm
+
+postgresql://postgres:gSQislpUsavcvcKm
+@db.qaxgkjoyxvenraoiewbk.supabase.co:5432/postgres
+
+Project URL
+https://qaxgkjoyxvenraoiewbk.supabase.co
+
+Publishable Key
+
+sb_publishable_l3mapy8gmvG34UqBeJUDXQ_kH5hk946
+
+Anon Key (Legacy)
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFheGdram95eHZlbnJhb2lld2JrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA0MDUwODYsImV4cCI6MjA4NTk4MTA4Nn0.XT_6I9-zpP1AK5T5Km3ryuBXf0x5JUKDRPHraqONwt4
